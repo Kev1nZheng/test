@@ -1,0 +1,25 @@
+Frame Length:200 RGB: 0.8512 Flow: 0.8221 Memory: 0.8945
+1:1:1
+Clip:1 RGB:0.7528 Flow:0.6326 Memory:0.80967 Classifier:0.79408 Full:0.68226
+Clip:2 RGB:0.7698 Flow:0.6857 Memory:0.83294 Classifier:0.8147 Full:0.72694
+Clip:3 RGB:0.7801 Flow:0.709 Memory:0.84536 Classifier:0.82818 Full:0.74095
+Clip:4 RGB:0.783 Flow:0.7328 Memory:0.85593 Classifier:0.83981 Full:0.75522
+Clip:5 RGB:0.7906 Flow:0.7452 Memory:0.86545 Classifier:0.8488 Full:0.76421
+Clip:6 RGB:0.797 Flow:0.7552 Memory:0.87497 Classifier:0.85461 Full:0.7769
+Clip:7 RGB:0.8023 Flow:0.7658 Memory:0.88025 Classifier:0.85858 Full:0.78271
+Clip:8 RGB:0.8073 Flow:0.774 Memory:0.88395 Classifier:0.86281 Full:0.78879
+Clip:9 RGB:0.8084 Flow:0.784 Memory:0.8858 Classifier:0.86704 Full:0.79302
+Clip:10 RGB:0.8102 Flow:0.7848 Memory:0.88766 Classifier:0.86704 Full:0.79752
+
+frame length = 200 RGB = 0.8443 Flow = Memory = 0.9107
+10:10:1
+Clip:1 RGB:0.7698 Flow:0.6463 Memory:0.81575 Classifier:0.79831 Full:0.79804
+Clip:2 RGB:0.7806 Flow:0.701 Memory:0.84536 Classifier:0.82263 Full:0.82342
+Clip:3 RGB:0.7901 Flow:0.7309 Memory:0.86175 Classifier:0.83347 Full:0.83373
+Clip:4 RGB:0.8012 Flow:0.7534 Memory:0.87232 Classifier:0.84695 Full:0.84695
+Clip:5 RGB:0.8073 Flow:0.7716 Memory:0.87708 Classifier:0.85937 Full:0.8599
+Clip:6 RGB:0.8142 Flow:0.7877 Memory:0.8821 Classifier:0.86572 Full:0.86598
+Clip:7 RGB:0.815 Flow:0.798 Memory:0.88845 Classifier:0.87312 Full:0.87312
+Clip:8 RGB:0.8195 Flow:0.8041 Memory:0.89294 Classifier:0.8755 Full:0.87523
+Clip:9 RGB:0.8221 Flow:0.8097 Memory:0.89585 Classifier:0.88078 Full:0.88078
+Clip:10 RGB:0.8263 Flow:0.8113 Memory:0.8977 Classifier:0.88395 Full:0.88395

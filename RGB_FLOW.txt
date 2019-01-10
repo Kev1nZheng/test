@@ -1,0 +1,21 @@
+Clip:1 RGB:0.7528 Flow:0.6326 Fusion Accuracy:0.7941
+Clip:2 RGB:0.7698 Flow:0.6857 Fusion Accuracy:0.8147
+Clip:3 RGB:0.7801 Flow:0.709 Fusion Accuracy:0.8282
+Clip:4 RGB:0.783 Flow:0.7328 Fusion Accuracy:0.8398
+Clip:5 RGB:0.7906 Flow:0.7452 Fusion Accuracy:0.8488
+Clip:6 RGB:0.797 Flow:0.7552 Fusion Accuracy:0.8546
+Clip:7 RGB:0.8023 Flow:0.7658 Fusion Accuracy:0.8586
+Clip:8 RGB:0.8073 Flow:0.774 Fusion Accuracy:0.8628
+Clip:9 RGB:0.8084 Flow:0.784 Fusion Accuracy:0.867
+Clip:10 RGB:0.8102 Flow:0.7848 Fusion Accuracy:0.867
+
+Clip:1 RGB:0.7528 Flow:0.6326 Fusion Accuracy:0.7940787734602167
+Clip:2 RGB:0.7698 Flow:0.6857 Fusion Accuracy:0.8146973301612477
+Clip:3 RGB:0.7801 Flow:0.709 Fusion Accuracy:0.8281786941580757
+Clip:4 RGB:0.783 Flow:0.7328 Fusion Accuracy:0.8398096748612213
+Clip:5 RGB:0.7906 Flow:0.7452 Fusion Accuracy:0.8487972508591065
+Clip:6 RGB:0.797 Flow:0.7552 Fusion Accuracy:0.8546127412106793
+Clip:7 RGB:0.8023 Flow:0.7658 Fusion Accuracy:0.8585778482685699
+Clip:8 RGB:0.8073 Flow:0.774 Fusion Accuracy:0.8628072957969866
+Clip:9 RGB:0.8084 Flow:0.784 Fusion Accuracy:0.8670367433254031
+Clip:10 RGB:0.8102 Flow:0.7848 Fusion Accuracy:0.8670367433254031
